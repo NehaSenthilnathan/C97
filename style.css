@@ -1,0 +1,24 @@
+#z{
+    width: 500px;
+    border-radius: 25px;
+    text-align: center;
+}
+#a{
+    width: 90%;
+    height: 60px;
+    font-size: 35px;
+    border-radius: 25px;
+
+}
+
+#b{
+    background-color: antiquewhite;
+    padding-left: 20px;
+    padding-right: 20px;
+}
+
+#c{
+    height: 45px;
+    width: 200px;
+    font-size: large;
+}
